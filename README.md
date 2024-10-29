@@ -55,7 +55,9 @@
 ### Практический уровень
 10. [Работа с базами данных](lessons/10-databases/README.md)
 11. [Web-разработка](lessons/11-web/README.md)
-12. [Микросервисы](lessons/12-microservices/README.md)
+12. [Docker](lessons/12-docker/README.md)
+13. [Профайлинг](lessons/13-profiling/README.md)
+14. [Безопасность](lessons/14-security/README.md)
 
 ## Как учиться эффективно
 
